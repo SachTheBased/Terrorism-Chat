@@ -2,6 +2,5 @@
 
 Chat made to bypass discord
 
-Versions:
-
+Versions:<br>
 ``V1 - Released``
