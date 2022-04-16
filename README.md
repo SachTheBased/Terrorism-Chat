@@ -1,6 +1,6 @@
 # Terrorism-Chat
 
-Chat made to bypass discord
-
-Versions:<br>
+Chat made to bypass discord<br>
+<br>
+# Versions
 ``V1 - Released``
