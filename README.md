@@ -2,9 +2,9 @@
 
 Chat made to bypass discord
 
-How to use:
+<code>How to use:
 
-Download and run client.py
+Download and run client.py</code>
 
 Versions:
 
